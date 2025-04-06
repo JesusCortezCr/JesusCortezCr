@@ -1,4 +1,4 @@
-# Hey guys👋, Welcome to my Github Profile
+# Hey guys👋, Welcome to Cortez Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesús+Cortez;Backend+web+developer...;+Lead...;Tech+Blogger...;"/>
  

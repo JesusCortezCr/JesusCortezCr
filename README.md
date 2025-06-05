@@ -67,19 +67,9 @@
     width="60px"
     alt="Spring (Spring-boot)">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
-    &nbsp;&nbsp;&nbsp;
 
   </br>
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-    width="60px"
-    alt="NodeJS">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
     width="60px"
@@ -105,16 +95,8 @@
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-    width="60px"
-    alt="Oracle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    width="60px"
-    alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+
+
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
     width="60px"
@@ -129,11 +111,7 @@
     width="60px"
     alt="Git">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
-    width="60px"
-    alt="Kubernetes">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
     width="60px"

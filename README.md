@@ -1,8 +1,8 @@
-# Hey guys👋, Welcome to Cortez Github Profile
+# Hi!👋, This is my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesús+Cortez;Backend+web+developer...;+Lead...;Tech+Blogger...;"/>
  
- <p>- <i>A Systems Engineer on 6th cicle student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and to lead teams of development , placing a special emphasis on writing good quality code. Also regularly make videos for teach to other persons to improve the education of my country.</i></p>
+ <p>- <i>A Systems Engineer on 6th cicle student and a software developer with good problem-solving skills. Passionate about coding and to lead teams of development , placing a special emphasis on writing good quality code. Also regularly make videos for teach to other persons to improve the education of my country.In my free time develop software that can help to the people.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />

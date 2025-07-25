@@ -1,16 +1,6 @@
-# Hi!👋, This is my Github Profile
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesús+Cortez;Backend+web+developer...;+Lead...;Tech+Blogger...;"/>
- 
- <p>- <i>A Systems Engineer on 6th cicle student and a software developer with good problem-solving skills. Passionate about coding and to lead teams of development , placing a special emphasis on writing good quality code. Also regularly make videos for teach to other persons to improve the education of my country.In my free time develop software that can help to the people.</i></p>
-
-
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-</br>
-</br>
-</br>
-⚡🙋‍♂️ About Me
-
+<h1 align="center">Bienvenido, Soy Jesus Cortez 👋</h1>
+##⚡🙋‍♂️ About Me
+Tengo una pasión que es el desarrollo de software como tambien el constante desarrolo de problemas y pensamiento analítico que me permite estar constantemente creando y diseñando nuevas soluciones. Mi enfoque principal es el desarrollo web full stack. En mi página de GIT HUB podras ver algunos de mis proyectos originales , como código ,diseño , patrones , arquitectura , etc. Espero que te pueda gustar y agradecería muchisimo que me apoyaras compartiendo mis soluciones.     
 </br>
 
 - 💡 I’m curious about ...Architecture of software.

@@ -1,4 +1,8 @@
 <h1 align="center">Bienvenido, Soy Jesus Cortez 👋</h1>
+## Introduction
+
+OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+
 ##⚡🙋‍♂️ About Me
 Tengo una pasión que es el desarrollo de software como tambien el constante desarrolo de problemas y pensamiento analítico que me permite estar constantemente creando y diseñando nuevas soluciones. Mi enfoque principal es el desarrollo web full stack. En mi página de GIT HUB podras ver algunos de mis proyectos originales , como código ,diseño , patrones , arquitectura , etc. Espero que te pueda gustar y agradecería muchisimo que me apoyaras compartiendo mis soluciones.     
 <br>

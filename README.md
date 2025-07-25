@@ -2,6 +2,7 @@
 ##⚡🙋‍♂️ About Me
 Tengo una pasión que es el desarrollo de software como tambien el constante desarrolo de problemas y pensamiento analítico que me permite estar constantemente creando y diseñando nuevas soluciones. Mi enfoque principal es el desarrollo web full stack. En mi página de GIT HUB podras ver algunos de mis proyectos originales , como código ,diseño , patrones , arquitectura , etc. Espero que te pueda gustar y agradecería muchisimo que me apoyaras compartiendo mis soluciones.     
 <br>
+## 🛠 &nbsp;Tech Stack
 #### 🔧 Languages
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)

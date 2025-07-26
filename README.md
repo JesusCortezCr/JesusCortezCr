@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido, Soy Jesus Cortez 👋</h1>
 
 <h2>Acerca de mi</h2>
-Tengo una pasión que es el desarrollo de software como tambien el constante desarrolo de problemas y pensamiento analítico que me permite estar constantemente creando y diseñando nuevas soluciones. Mi enfoque principal es el desarrollo web full stack. En mi página de GIT HUB podras ver algunos de mis proyectos originales , como código ,diseño , patrones , arquitectura , etc. Espero que te pueda gustar y agradecería muchisimo que me apoyaras compartiendo mis soluciones.
+Apasionado en el desarrollo de software como tambien en el constante análicis de problemáticas y resolución con pensamiento analítico y crítico que me permite estar constantemente creando y diseñando nuevas soluciones tecnológicas. Mi enfoque principal es el desarrollo web full stack donde utilizo tecnologías modernas. En mi página de Git Hub podras ver algunos de mis proyectos , como código ,diseño , patrones , arquitectura , etc. Espero que te pueda gustar y agradecería muchisimo que me apoyaras compartiendo mis soluciones.
 <hr>
 <!--- stats & Trophy (start) -->
 <p align="center">

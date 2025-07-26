@@ -97,10 +97,10 @@ Tengo una pasión que es el desarrollo de software como tambien el constante des
 <h2>Mis proyectos 🚀👨‍🚀</h2>
 Aqui hay algunos proyectos que estuve trabajando .📰 Mis últimos posts
 
-- 📦 [**Como crear una Sistema de Ticketing para Soporte Técnico**](#)
+- 📦 [**Como crear una Sistema de Ticketing para Soporte Técnico**](https://github.com/JesusCortezCr/Proyecto-IntegradorI-HuntTech)
   <br>📝 Aprende a construir un sistema desde cero con Springboot para el backend y Thymeleaf para el frontend. Perfecto para instituciones privadas o públicas.
 
-- 📦 [**Desarrollo de plataforma de documentos colborativos como foro**](#)
+- 📦 [**Desarrollo de plataforma de documentos colborativos como foro**](https://github.com/JesusCortezCr/Web-Libreria)
   <br>📝Desarrollo de aplicación web desde cero con Springboot para l backend y Thymeleaf para el frontend. Perfecto para subir tus publicaciones y ver otros de los diferentes usuarios.
   
 <hr>

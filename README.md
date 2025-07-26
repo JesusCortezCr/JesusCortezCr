@@ -96,6 +96,23 @@ Tengo una pasión que es el desarrollo de software como tambien el constante des
 <hr>
 <h2>Mis proyectos 🚀👨‍🚀</h2>
 Aqui hay algunos proyectos que estuve trabajando .
+## 📰 Mis últimos posts del blog
+
+- 📦 [**How to Create a Design System with Storybook and Tailwind (React)**](#)
+  <br>📝 Aprende a construir un sistema de diseño escalable desde cero con Storybook y Tailwind CSS en React. Perfecto para crear componentes UI consistentes y mantenibles.
+
+- 📦 [**Preparation + Consistency: The Method I Use to Ensure a Productive Day**](#)
+  <br>📝 ¿Sabías que un día productivo empieza la noche anterior? Descubre mi rutina diaria y cómo los hábitos pequeños transforman tu enfoque y energía.
+
+- 📦 [**Stop Forgetting What You Read: Master the Art of Active Reading**](#)
+  <br>📝 ¿Tienes problemas para recordar lo que lees? Aprende técnicas simples pero poderosas para leer activamente y retener mejor lo que aprendes.
+
+- 📦 [**The Hidden Benefits of Boredom**](#)
+  <br>📝 Explora los beneficios ocultos del aburrimiento: creatividad, equilibrio mental y reflexión personal. Aprende a convertir el aburrimiento en crecimiento.
+
+- 📦 [**React Reusability: Exploring 3 Common Patterns**](#)
+  <br>📝 Descubre patrones esenciales de reutilización en React: componentes personalizados, funciones utilitarias y hooks. Mejora la eficiencia de tus interfaces.
+
 
 <hr>
 ### :link: &nbsp;Connect with me
